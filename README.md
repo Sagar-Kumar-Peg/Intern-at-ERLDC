@@ -1,1 +1,1 @@
-# Intern-at-ERLDC
+before running the simulation, first open this file (https://drive.google.com/file/d/1msFrtbQgdFNLtDaoNSrtZ1wUiVnMbmki/view?usp=sharing) and check the generate matlab code chexkbox and click finish button. Now, on top of that file open .slx file (in repository) and then run the simulation 
